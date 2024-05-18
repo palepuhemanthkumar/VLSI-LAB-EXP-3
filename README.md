@@ -1,7 +1,7 @@
 # EXPERIMENT-3 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 # DATE:
 # AIM: 
-To simulate and synthesis multiplier using vivado.
+To simulate and synthesis multiplier  using vivado.
 
 # APPARATUS REQUIRED:
 vivado 2023.2
